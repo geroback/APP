@@ -1,0 +1,6 @@
+{
+  "name": "Tunnel 3D Tetris",
+  "description": "정면 깊이감(Tunnel View) 스타일의 세련된 3D 테트리스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
